@@ -1,0 +1,7 @@
+# Activer/Désactiver le message de bienvenue
+welcome-message-enabled: true
+welcome-message: "&aBienvenue sur le serveur, &e%player%&a !"
+
+# Activer/Désactiver le message de première connexion
+first-join-message-enabled: true
+first-join-message: "&bBienvenue pour la première fois, &e%player%&b !"
